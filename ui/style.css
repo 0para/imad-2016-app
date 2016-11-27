@@ -1,6 +1,5 @@
 body {
     font-family: sans-serif;
-    background-color: powderblue;
     margin-top: 75px;
 }
 
@@ -17,6 +16,7 @@ body {
 }
 
 .img-medium {
-    height: 200px;
+    height: 342;
+    width :304;
 }
 
